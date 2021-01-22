@@ -1,0 +1,1 @@
+from .funds_explorer import FundsExplorerSpider
